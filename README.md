@@ -1,7 +1,7 @@
 # Solar Panel Tracker
 Simple one-axis rotation solar panel tracker using an arduino. 
 
-# Final project for ECE 3301 class at Cal Poly, Pomona with Dr. Omar.
+# Final project for ECE 3301 at Cal Poly, Pomona with Dr. Omar.
 
 The available sunlight available to the solar panel is measured using two photoresistors. These resistors feed analog data into the arduino which determines if the motor should rotate the panel or not. The motor rotates the panel until the arduino measures out the ideal position.
 
